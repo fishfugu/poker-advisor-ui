@@ -8,8 +8,8 @@ This is a fun, family-driven Unity project focused on visualising and evaluating
 
 1. Fork the repo and clone your copy.
 2. Open the project in **Unity Hub**.
-3. Make sure you're using the correct Unity version (2022.x LTS recommended - but check the last time this tfile was updatedf before trusting that reference!)
-4. Explore the scene and scripts in `/Assets/` (qgain, make sure I updated this fiule recently... at the time of writing, nothing is certain)
+3. Make sure you're using the correct Unity version (2022.x LTS recommended - but check the last time this tfile was updated before trusting that reference!)
+4. Explore the scene and scripts in `/Assets/` (again, make sure I updated this file recently... at the time of writing, nothing is certain)
 5. Use a feature branch and submit a pull request.
 
 ## Code Guidelines
